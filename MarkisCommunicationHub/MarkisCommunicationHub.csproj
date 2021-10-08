@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UserSecretsId>bf6a8915-ef7a-4429-ba6d-7eef97af40e7</UserSecretsId>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.SignalR.Common" Version="3.1.0" />
+	</ItemGroup>
+</Project>
